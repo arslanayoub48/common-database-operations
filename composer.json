@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "DatabaseOperations\\Common\\": "src/"
+            "Common\\DatabaseOperations\\": "src/"
         }
     },
     "require": {
@@ -21,7 +21,6 @@
             "providers": [
                 "Common\\DatabaseOperations\\CommonDatabaseOperationsProvider"
             ]
-            
         }
     }
 }
