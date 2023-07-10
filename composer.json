@@ -1,10 +1,19 @@
 {
     "name": "common/database-operations",
     "type": "library",
+    "authors": [
+        {
+            "name": "Arslan Ayoub",
+            "email": "arsalanayoub48@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Common\\DatabaseOperations\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.0.0"
+    }
 }
