@@ -1,10 +1,10 @@
-# Common Database Operations
+#  Database Operations
 
-The `Common Database Operations` package provides a trait for Laravel models to handle common database operations and track user activity. It automatically populates common database columns and simplifies the implementation of user tracking features.
+The ` Database Operations` package provides a trait for Laravel models to handle  database operations and track user activity. It automatically populates  database columns and simplifies the implementation of user tracking features.
 
 ## Installation
 
-To install the `Common Database Operations` package, follow these steps:
+To install the ` Database Operations` package, follow these steps:
 
 1. Ensure that you have [Composer](https://getcomposer.org/) installed on your machine.
 
@@ -22,7 +22,7 @@ composer require arslanayoub48/database-operations
 
 ## Usage
 
-1. Add the `CommonDatabaseOperations` trait to the model(s) where you want to implement common database operations. For example:
+1. Add the `DatabaseOperations` trait to the model(s) where you want to implement  database operations. For example:
 
 ```php
 use Common\DatabaseOperations\Traits\CommonDatabaseOperations;
