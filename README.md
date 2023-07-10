@@ -14,7 +14,7 @@ To install the `Common Database Operations` package, follow these steps:
 
 
 ```bash
-composer require arslanayoub48/common-database-operations
+composer require arslanayoub48/database-operations
 
 ```
 
