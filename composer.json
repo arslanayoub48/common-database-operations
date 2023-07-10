@@ -22,5 +22,6 @@
                 "Common\\DatabaseOperations\\CommonDatabaseOperationsProvider"
             ]
         }
-    }
+    },
+    
 }
