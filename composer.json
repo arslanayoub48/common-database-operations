@@ -15,5 +15,13 @@
     },
     "require": {
         "php": ">=7.0.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Common\\DatabaseOperations\\CommonDatabaseOperationsProvider"
+            ]
+            
+        }
     }
 }
