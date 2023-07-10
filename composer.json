@@ -1,5 +1,5 @@
 {
-    "name": "common/database-operations",
+    "name": "database-operations/common-database-operations",
     "type": "library",
     "authors": [
         {
@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Common\\DatabaseOperations\\": "src/"
+            "DatabaseOperations\\Common\\": "src/"
         }
     },
     "require": {
