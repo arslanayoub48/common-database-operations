@@ -1,12 +1,14 @@
 {
     "name": "database-operations/common-database-operations",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Arslan Ayoub",
             "email": "arsalanayoub48@gmail.com",
             "role": "Developer"
         }
+
     ],
     "autoload": {
         "psr-4": {
@@ -22,6 +24,5 @@
                 "Common\\DatabaseOperations\\CommonDatabaseOperationsProvider"
             ]
         }
-    },
-    
+    }
 }
