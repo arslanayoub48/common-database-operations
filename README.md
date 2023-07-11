@@ -14,7 +14,7 @@ To install the ` Database Operations` package, follow these steps:
 
 
 ```bash
-composer require arslanayoub48/database-operations
+composer require database-operations/common-database-operations
 
 ```
 
