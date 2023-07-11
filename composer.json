@@ -1,6 +1,7 @@
 {
     "name": "database-operations/common-database-operations",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Arslan Ayoub",
